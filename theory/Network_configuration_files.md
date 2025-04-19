@@ -1,6 +1,6 @@
----
 
-# 🛠️ Network Configuration Files
+
+## 🛠️ Network Configuration Files
 
 To store IP addresses and other related settings, Linux uses a separate configuration file for each network interface. These files are typically stored in the `/etc/sysconfig/network-scripts` directory. The important Linux network configuration files are:
 
